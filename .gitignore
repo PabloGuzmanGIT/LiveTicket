@@ -35,9 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
-src/main/java/com/isil/Parcial1/Ticket.java
-src/main/java/com/isil/Parcial1/TicketController.java
-src/main/java/com/isil/Parcial1/TicketRepository.java
+
 src/main/java/com/isil/Parcial1/Proveedor.java
 src/main/java/com/isil/Parcial1/ProveedorController.java
 src/main/java/com/isil/Parcial1/ProveedorRepository.java
+/EP2_DAEI - GRUPO 6 (1).docx
